@@ -21,22 +21,6 @@ body, h1, h2, h3, h4, h5, p, .badge, figcaption {
     color: white;
 }
 
-.card {
-    box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
-    margin-bottom: 5px;
-    text-align: right;
-}
-
-.card-text, .card-body {
-    font-weight: bold;
-    font-family: 'Montserrat', sans-serif;
-    text-align: right;
-}
-
-.card-img {
-    height: 250px;
-}
-
 .dropdown .dropdown-menu {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
@@ -53,8 +37,4 @@ body, h1, h2, h3, h4, h5, p, .badge, figcaption {
 .dropdown:hover .dropdown-menu {
     max-height: 1000px;
     opacity: 1;
-}
-
-.carousel-item {
-    height: 32rem;
 }
